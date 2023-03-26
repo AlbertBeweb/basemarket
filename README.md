@@ -34,6 +34,8 @@ $ yarn build
 $ php bin/console sylius:install
 $ symfony serve
 $ open http://localhost:8000/
+
+
 $ git clone https://github.com/AlbertBeweb/market.git
 $ composer update
 $ nvm install 16
